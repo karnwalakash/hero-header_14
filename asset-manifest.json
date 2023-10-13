@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hero-header_14/static/css/main.e3111702.css",
+    "main.js": "/hero-header_14/static/js/main.063cb308.js",
+    "static/js/787.0420ccf9.chunk.js": "/hero-header_14/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/hero-header_14/index.html",
+    "main.e3111702.css.map": "/hero-header_14/static/css/main.e3111702.css.map",
+    "main.063cb308.js.map": "/hero-header_14/static/js/main.063cb308.js.map",
+    "787.0420ccf9.chunk.js.map": "/hero-header_14/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3111702.css",
+    "static/js/main.063cb308.js"
+  ]
+}
